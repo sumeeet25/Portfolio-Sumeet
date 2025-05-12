@@ -24,11 +24,3 @@ Welcome to my personal portfolio website — a dynamic and responsive platform t
 - **Hosting:** Vercel
 
 ---
-
-## 🚀 Getting Started
-
-### Clone the repository
-
-```bash
-git clone https://github.com/your-username/portfolio-sumeet.git
-cd portfolio-sumeet
